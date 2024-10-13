@@ -1,4 +1,5 @@
 numpy
-pandas 
-train_test_split
-LinearRegression
+pandas
+matplotlib
+scikit-learn
+streamlit
