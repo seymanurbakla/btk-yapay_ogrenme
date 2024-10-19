@@ -3,4 +3,4 @@ pandas
 matplotlib
 scikit-learn
 streamlit
-Import pickle
+pickle
